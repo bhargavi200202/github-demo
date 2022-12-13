@@ -20,7 +20,7 @@
 		<sonar.projectKey>dev-project</sonar.projectKey>
 		<sonar.language>java</sonar.language>
 		<sonar.host.url>http://localhost:9000</sonar.host.url>
-		<sonar.login> sqp_9c71d47ef29c736e8696db24fea98d640de37bb8</sonar.login>
+		<sonar.login>sqp_9c71d47ef29c736e8696db24fea98d640de37bb8</sonar.login>
 
 	</properties>
 
